@@ -1,0 +1,11 @@
+# local runtime artifacts
+config/
+*.log
+*.log.old
+association-backup.txt
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
